@@ -1,13 +1,10 @@
 import pandas as pd
 
-data = {
-    'ID': [1, 2, 3],
-    'Nombre': ['Ana', 'Carlos', 'Lucía'],
-    'Edad': [34, 28, 45],
-    'Sexo': ['F', 'M', 'F'],
-    'Peso': [62, 75, 70],
-    'Altura': [1.65, 1.80, 1.70]
-}
+data = pd.DataFrame({
+    'id': [1, 2, 3],
+    'nombre': ['Ana', 'Luis', 'Carlos'],
+    'edad': [25, 30, 35]
+}).set_index('id')
 
 df = pd.DataFrame(data)
 df.to_csv('pacientes.csv', index=False)
