@@ -1,0 +1,472 @@
+                                Producto         Categoria  Maximos  Tienda  Bodega   Total  Faltante Unidad
+                    Carbon Premium 2.5kg           Almacen        7       2       0       2         5 unidad
+                Huevo Sorpresa Peppa Pig           Almacen       48       9       0       9        39 unidad
+                Pres. Lifestyles Nuda x3           Almacen        8      26       0      26       -18 unidad
+             Pres. Lifestyles Stimula x3           Almacen        4       2      20      22         2 unidad
+             Pres. Lifestyles Studded x3           Almacen        4       6      20      26        -2 unidad
+                      Prontin De Peluche           Almacen       12      12      21      33         0 unidad
+                       Tarjeta Copec Pay           Almacen       15      -2       0      -2        17 unidad
+                              Vaso Venta           Almacen        0     466       0     466      -466 unidad
+                        Cinnamon Roll AA         Cafeteria        0      16      84     100       -16 unidad
+          Croissant Manjar Arcoalimentos         Cafeteria        7       0       0       0         7 unidad
+       Donut Cob Chocolate Con Cereal BM         Cafeteria        5       2      41      43         3 unidad
+              Donut Relleno Chocolate BM         Cafeteria        5       4      44      48         1 unidad
+              Donut Relleno Frambuesa BM         Cafeteria        5       2      45      47         3 unidad
+    Magdalena Con Chips de Chocolate BOL         Cafeteria        6       5       0       5         1 bolsas
+                  Magdalena Vainilla BOL         Cafeteria        6       0       0       0         6 bolsas
+           Medialuna Granel Congelada AA         Cafeteria        0      10     200     210       -10 unidad
+            Muffin Americano Arandano BM         Cafeteria        6       6      30      36         0 unidad
+         Muffin Americano Banana Nuez BM         Cafeteria        6       3      30      33         3 unidad
+      Muffin Americano Chip Chocolate BM         Cafeteria        6       9      60      69        -3 unidad
+        Muffin Arandano Relleno Framb BM         Cafeteria        3       2      15      17         1 unidad
+          Muffin Relleno 3 Chocolates BM         Cafeteria        3       3      20      23         0 unidad
+           Muffin Relleno Manjar Nuez BM         Cafeteria        3       4      16      20        -1 unidad
+              Pan de Chocolate Congelado         Cafeteria       14      21      90     111        -7 unidad
+               Queque Limon Glaseado 87g         Cafeteria       12       3      42      45         9 unidad
+                     Kent Blue UP 20s RC       Cigarrillos        0      25      40      65       -25 unidad
+                    Kent Boost UP 20s RC       Cigarrillos        0      17      30      47       -17 unidad
+                    Kent Ikon Mix 20 200       Cigarrillos        0      18      80      98       -18 unidad
+                 Kent Neo B2K Azul DS20s       Cigarrillos        0      25      60      85       -25 unidad
+                      Kent Neo Rose HL20       Cigarrillos        0      27      50      77       -27 unidad
+                    Kent Neo Tropic HL20       Cigarrillos        0      28      50      78       -28 unidad
+                   Kent Silver UP 20s RC       Cigarrillos        0      21      70      91       -21 unidad
+                   Kent Switch UP 20s RC       Cigarrillos        0      17      40      57       -17 unidad
+                    Kent White UP 20s RC       Cigarrillos        0      19      50      69       -19 unidad
+      Lucky Strike Blue 20. Sin Adetivos       Cigarrillos        0      30     190     220       -30 unidad
+         Lucky Strike Blue Azul HL20 LEP       Cigarrillos        0      19      20      39       -19 unidad
+   Lucky strike Click Compact Chi Spmint       Cigarrillos        0       0       0       0         0 unidad
+        Lucky Strike ClickyRoll HL20 LEP       Cigarrillos        0      27      70      97       -27 unidad
+    Lucky Strike Compact RedBerry 20s HL       Cigarrillos        0      25      40      65       -25 unidad
+      Lucky Strike Compact Spearmint 20s       Cigarrillos        0      31      80     111       -31 unidad
+             Lucky Strike Crush SL94 20s       Cigarrillos        0      22      50      72       -22 unidad
+                Lucky Strike Eclipse 20s       Cigarrillos        0      19      50      69       -19 unidad
+             Lucky Strike Exotic Joy 20s       Cigarrillos        0      15      40      55       -15 unidad
+ Lucky Strike Fresh Twist 20 200Sl94ClPP       Cigarrillos        0      26      40      66       -26 unidad
+       Lucky Strike Red 20, Sin Adetivos       Cigarrillos        0      14      80      94       -14 unidad
+          Lucky Strike Red Rojo HL20 LEP       Cigarrillos        0      10       0      10       -10 unidad
+    Lucky strike Wild Compact Chi Rberry       Cigarrillos        0       0       0       0         0 unidad
+              Lucky Strike Wild HL20 LEP       Cigarrillos        0      22      50      72       -22 unidad
+   Marlboro Crafted Blue Box 20 Unidades       Cigarrillos        0      18      80      98       -18 unidad
+    Marlboro Crafted Red Box 20 Unidades       Cigarrillos        0       3       0       3        -3 unidad
+        Marlboro Gold Original KS Box 20       Cigarrillos        0       9      20      29        -9 unidad
+                  Marlboro Red KS Box 20       Cigarrillos        0      19      60      79       -19 unidad
+             Marlboro Summer Zest Box 20       Cigarrillos        0       0       0       0         0 unidad
+                  Marlboro Touch Caps 20       Cigarrillos        0       0       0       0         0 unidad
+                   Pall Mall Blue XL 20s       Cigarrillos        0      17      70      87       -17 unidad
+                 Pall Mall Boost XL HL20       Cigarrillos        0      20      70      90       -20 unidad
+               Pall Mall Click On 20s Xl       Cigarrillos        0      29      80     109       -29 unidad
+                 Pall Mall Exact Azul 18       Cigarrillos        0      23      30      53       -23 unidad
+                 Pall Mall Exacto Red 18       Cigarrillos        0      14      20      34       -14 unidad
+                    Pall Mall Red XL 20s       Cigarrillos        0      21      10      31       -21 unidad
+                 Pall Mall Silver XL 20s       Cigarrillos        0      22      50      72       -22 unidad
+                 Pall Mall Sunrise XL20s       Cigarrillos        0      31      60      91       -31 unidad
+                Pall Mall Sunset XL HL20       Cigarrillos        0      33      30      63       -33 unidad
+                Chaparrita Vienesa Queso         Fast Food       20       9      54      63        11 unidad
+ Pizza Artesana Jam Ahumado LAntica 230g         Fast Food        0       0       0       0         0 unidad
+   Pizza Artesana Pepperoni LAntica 220g         Fast Food        0       0       0       0         0 unidad
+   Pizza Artesana Pepperoni LAntica 350g         Fast Food        0       0       0       0         0 unidad
+              Pizza Pepperoni 23cm Copec         Fast Food        0       0       0       0         0 unidad
+   Croissant Alargado Fresco Jamon Queso       Grab And Go       30      24       0      24         6 unidad
+  Doble Hamburguesa Queso Cheddar Fresco       Grab And Go       15      13       0      13         2 unidad
+        Hamburguesa Cheddar Bacon Fresco       Grab And Go       15      15       0      15         0 unidad
+      Hamburguesa Classic Cheddar Fresco       Grab And Go       15       0       0       0        15 unidad
+   Hamburguesa Fresco Cheddar Bacon Cong       Grab And Go       15       0       0       0        15 unidad
+                    Mechada Queso Fresco       Grab And Go       15       6       0       6         9 unidad
+                    Miga Ave Mayo Fresco       Grab And Go       15      13       0      13         2 unidad
+                   Miga Ave Palta Fresco       Grab And Go       15       0       0       0        15 unidad
+                Miga Ave Pimenton Fresco       Grab And Go       15      22       0      22        -7 unidad
+                Miga Barros Jarpa Fresco       Grab And Go       15      11       0      11         4 unidad
+               Miga Pavo Al Pesto Fresco       Grab And Go        0       0       0       0         0 unidad
+     Sandwich Pollo Rebozado Fresco 229g       Grab And Go       15       5       0       5        10 unidad
+ Sandwich Rustico Pollo Asado (Ambiente)       Grab And Go       10       4       0       4         6 unidad
+Sandwich Rustico Salmon Ahumado Ambiente       Grab And Go       10       4       0       4         6 unidad
+              Bolsa Pequena Kraft Pronto           Insumos        0      30     240     270       -30 unidad
+                     Cuna Porta Hd 17 Cm           Insumos        0      37     240     277       -37 unidad
+                     Cuna Porta Hd 22 Cm           Insumos        0       8     400     408        -8 unidad
+           Ins. Azucar Pronto 1.000x5gr.           Insumos        0     814    1000    1814      -814 unidad
+       Ins. Azucar Sachet Punto Cj 800U            Insumos        0    -469       0    -469       469 unidad
+          Ins. Bolsa Palta Hass Salsa HD           Insumos        0       0      20  20.935         0  kilos
+                      Ins. Ketchup Bolsa           Insumos        0       0       5   4.285         0  kilos
+                     Ins. Mayonesa Bolsa           Insumos        0       0       4    3.11         0  kilos
+                     Ins. Milo 1kg Bolsa           Insumos        0       0       0       0         0  kilos
+                 Ins. Milo Top Cup 4x1kg           Insumos        0       0      11  11.667         0  kilos
+                      Ins. Mostaza Bolsa           Insumos        0       0       6    6.49         0  kilos
+ Ins. Nescafe Alegria Cap Vainilla 4x1kg           Insumos        0       1      21  22.762        -1  kilos
+    Ins. Nescafe Alegria Capuccino 4x1kg           Insumos        0       1      23  24.766        -1  kilos
+    Ins. Nescafe Alegria Mocaccino 4x1kg           Insumos        0       1      19   20.56        -1  kilos
+                Ins. Nescafe Grano 6x1kg           Insumos        0       0      14    14.7         0  kilos
+    Ins. Pan Hot Dog 17-19cm Tradicional           Insumos        0       7     138     145        -7 unidad
+       Ins. Pan Hot Dog 22cm Tradicional           Insumos        0       5      84      89        -5 unidad
+   Ins. Papel Anti Grasa Sandwich Punto            Insumos        0     140    1450    1590      -140 unidad
+                 Ins. Porta Vasos Pronto           Insumos        0      50       0      50       -50 unidad
+                  Ins. Revolvedor Madera           Insumos        0     815    1000    1815      -815 unidad
+      Ins. Sucralosa Pronto 1.000x0.5gr.           Insumos        0     814    1000    1814      -814 unidad
+            Ins. Sucralosa Punto Cj 500U           Insumos        0    -469       0    -469       469 unidad
+    Ins. Tapa Vaso Cafe S M L  (antiguo)           Insumos        0     650       0     650      -650 unidad
+    Ins. Tapa Vaso Cafe S M L Papel 2025           Insumos        0    -185       0    -185       185 unidad
+Ins. Te Lipton Yellow Label Signat 25bls           Insumos        0       0       0       0         0 unidad
+ Ins. Vaso Cafe 12oz PX2 Pronto Bio 2023           Insumos        0     354       0     354      -354 unidad
+ Ins. Vaso Cafe 16oz PX2 Pronto Bio 2023           Insumos        0     192       0     192      -192 unidad
+ Ins. Vaso Cafe 21oz PX2 Pronto Bio 2023           Insumos        0     124     250     374      -124 unidad
+                Ins. Vaso Cafe 4oz Punto           Insumos        0     800       0     800      -800 unidad
+    Ins. Vaso Cafe 9oz Punto Doble Pared           Insumos        0       0       0       0         0 unidad
+        Servilleta Pronto - Punto 12x500           Insumos        0     713    2500    3213      -713 unidad
+              Vienesa 17cm Calibre 28 SJ           Insumos        0       9     144     153        -9 unidad
+           Vienesa 22 cm (Calibre 24) V2           Insumos        0       9      68      77        -9 unidad
+     Ins. Bolsa Grande Papel Kraft Punto    Insumos Tienda        0       0       0       0         0 unidad
+             Agua Cachantun Con Gas 1.6L Liquidos - Cooler        5       0       0       0         5 unidad
+            Agua Cachantun Con Gas 600cc Liquidos - Cooler        6      12      24      36        -6 unidad
+           Agua Cachantun Light Gas 1.6L Liquidos - Cooler        5      14      12      26        -9 unidad
+             Agua Cachantun Sin Gas 1.6L Liquidos - Cooler        5       6      12      18        -1 unidad
+               Agua Cachantun Sin Gas 1L Liquidos - Cooler        6       6       6      12         0 unidad
+            Agua Cachantun Sin Gas 600cc Liquidos - Cooler        6      17      24      41       -11 unidad
+         Agua Cachantun Strong Gas 600ml Liquidos - Cooler        6      16      12      28       -10 unidad
+            Agua Cachantun+ Citrus 600cc Liquidos - Cooler        6       2       0       2         4 unidad
+           Agua Cachantun+ Granada 600cc Liquidos - Cooler        6      16      12      28       -10 unidad
+           Agua Cachantun+ Manzana 600cc Liquidos - Cooler        6      17      12      29       -11 unidad
+              Agua Cachantun+ Pera 600cc Liquidos - Cooler        6      12      12      24        -6 unidad
+               Agua Cachantun+ Uva 600cc Liquidos - Cooler        0       0       0       0         0 unidad
+    Agua Sabor Vitaminwater Energy 500cc Liquidos - Cooler        7       0       0       0         7 unidad
+                 Agua Vital Con Gas 1.6L Liquidos - Cooler       10      17      36      53        -7 unidad
+                Agua Vital Con Gas 600cc Liquidos - Cooler       12      21      72      93        -9 unidad
+                 Agua Vital Sin Gas 1.6L Liquidos - Cooler       10      14      36      50        -4 unidad
+                Agua Vital Sin Gas 600cc Liquidos - Cooler       18      22      72      94        -4 unidad
+                Agua Vital Sin Gas 990ml Liquidos - Cooler        6      16      18      34       -10 unidad
+           Agua Vitaminwater Power 500ml Liquidos - Cooler        7      10      20      30        -3 unidad
+         Agua Vitaminwater Restore 500ml Liquidos - Cooler        7      11      16      27        -4 unidad
+                        Bebida Bilz 1.5L Liquidos - Cooler        5       6       6      12        -1 unidad
+                       Bebida Bilz 600cc Liquidos - Cooler        6      19      12      31       -13 unidad
+                   Bebida Coca Cola 1.5L Liquidos - Cooler       15      33      48      81       -18 unidad
+                  Bebida Coca Cola 591cc Liquidos - Cooler       18      56      78     134       -38 unidad
+          Bebida Coca Cola Retornable 2L Liquidos - Cooler        5       8       0       8        -3 unidad
+                Bebida Coca Cola SA 1.5L Liquidos - Cooler        5      26      72      98       -21 unidad
+               Bebida Coca Cola SA 591cc Liquidos - Cooler       18      54      36      90       -36 unidad
+          Bebida Coca Cola SA Lata 350ml Liquidos - Cooler       22      55      12      67       -33 unidad
+          Bebida Fanta Midcal Pina 591cc Liquidos - Cooler        6      -4       0      -4        10 unidad
+                        Bebida Kem 600cc Liquidos - Cooler        0      29       0      29       -29 unidad
+                    Bebida Kem Pina 1.5L Liquidos - Cooler        5       4       6      10         1 unidad
+              Bebida Kem Pina Lata 350cc Liquidos - Cooler       22      31       0      31        -9 unidad
+                  Bebida Kem Xtreme 1.5L Liquidos - Cooler        5       7       6      13        -2 unidad
+                 Bebida Kem Xtreme 600cc Liquidos - Cooler        6       6       0       6         0 unidad
+            Bebida Kem Xtreme Lata 350cc Liquidos - Cooler       14      12      12      24         2 unidad
+                 Bebida Limon Soda 600cc Liquidos - Cooler        6       8      24      32        -2 unidad
+                         Bebida Pap 1.5L Liquidos - Cooler        5       8       6      14        -3 unidad
+                        Bebida Pap 600cc Liquidos - Cooler        6      13       0      13        -7 unidad
+                       Bebida Pepsi 1.5L Liquidos - Cooler        5       7       6      13        -2 unidad
+                      Bebida Pepsi 600cc Liquidos - Cooler        6       3       0       3         3 unidad
+                 Bebida Pepsi Lata 350cc Liquidos - Cooler       28      21      48      69         7 unidad
+           Bebida Pepsi Zero Azucar 1.5L Liquidos - Cooler        5       7      12      19        -2 unidad
+          Bebida Pepsi Zero Azucar 600cc Liquidos - Cooler        6      16      12      28       -10 unidad
+                      Bebida Sprite 1.5L Liquidos - Cooler        5      10      30      40        -5 unidad
+                     Bebida Sprite 591cc Liquidos - Cooler        6       8      24      32        -2 unidad
+           Bebida Sprite Sin Azucar 1.5L Liquidos - Cooler        5      15       6      21       -10 unidad
+          Bebida Sprite Sin Azucar 591cc Liquidos - Cooler        0      -1       0      -1         1 unidad
+                    Coca Cola Lata 350cc Liquidos - Cooler       42      20       0      20        22 unidad
+                   Coca Cola Lata 473 ml Liquidos - Cooler        0       6      66      72        -6 unidad
+          Fanta Naranja Full Sugar 1.5 L Liquidos - Cooler        5       9      18      27        -4 unidad
+          Fanta Naranja Full Sugar 591cc Liquidos - Cooler        6      13      18      31        -7 unidad
+                   Gatorade Cool Blue 1L Liquidos - Cooler        5      15      12      27       -10 unidad
+                Gatorade Cool Blue 750ml Liquidos - Cooler        6      14       0      14        -8 unidad
+              Gatorade Fruta Tropical 1L Liquidos - Cooler        3      13       6      19       -10 unidad
+                     Gatorade Naranja 1L Liquidos - Cooler        5      17      12      29       -12 unidad
+               Gatorlit Fresa Kiwi 591cc Liquidos - Cooler        0       0       0       0         0 unidad
+                      Gatorlit Uva 591cc Liquidos - Cooler        7      15       0      15        -8 unidad
+                  Helado Bilz Y Pap 92ml Liquidos - Cooler       30      26       0      26         4 unidad
+                   Helado Chocolito 85ml Liquidos - Cooler       30      25       0      25         5 unidad
+     Helado Crazy Chirimoya Alegre 170ml Liquidos - Cooler       15       4       0       4        11 unidad
+               Helado Crazy Flocos 170ml Liquidos - Cooler       15       8       0       8         7 unidad
+            Helado Crazy Frambuesa 170ml Liquidos - Cooler       30       6       0       6        24 unidad
+          Helado Crazy Sahne Nuss 170ml  Liquidos - Cooler       15      10       0      10         5 unidad
+                    Helado Crocanty 90ml Liquidos - Cooler       30      27       0      27         3 unidad
+                   Helado Danky 21 125ml Liquidos - Cooler       32      13       0      13        19 unidad
+         Helado Danky Choc Platano 125ml Liquidos - Cooler       32       0       0       0        32 unidad
+    Helado Danky Framb Choc Blanco 125ml Liquidos - Cooler        0       0       0       0         0 unidad
+            Helado Danky Nogatonga 125ml Liquidos - Cooler       32       6       0       6        26 unidad
+           Helado Danky Sahne Nuss 125ml Liquidos - Cooler       32       2       0       2        30 unidad
+                 Helado Egocentrico 85ml Liquidos - Cooler       30       2       0       2        28 unidad
+           Helado Lolly Pop Naranja 90ml Liquidos - Cooler       30      16       0      16        14 unidad
+     Helado Mega Almendras Vainilla 90ml Liquidos - Cooler       28      13       0      13        15 unidad
+          Helado Mega Cookies Cream 90ml Liquidos - Cooler       28      10       0      10        18 unidad
+  Helado Mega Crunchy Dulce De Leche 90g Liquidos - Cooler       28       0       0       0        28 unidad
+              Helado Mega Frambuesa 90ml Liquidos - Cooler       28      20       0      20         8 unidad
+                Helado Mega Kit Kat 85ml Liquidos - Cooler       28       0       0       0        28 unidad
+           Helado Mega Kit Kat Gold 85ml Liquidos - Cooler       28      26       0      26         2 unidad
+        Helado Mega Manjar Galletas 90ml Liquidos - Cooler       28       0       0       0        28 unidad
+             Helado Mega Sahne Nuss 90ml Liquidos - Cooler       28      23       0      23         5 unidad
+               Helado Paleta Triton 80ml Liquidos - Cooler       28       0       0       0        28 unidad
+        Helado Pura Fruta Frambuesa 75ml Liquidos - Cooler       40      35       0      35         5 unidad
+            Helado Pura Fruta Mango 75ml Liquidos - Cooler       40      49       0      49        -9 unidad
+        Helado Sangurucho Vainilla 125ml Liquidos - Cooler       32       1       0       1        31 unidad
+                  Helado Savory Brick 1L Liquidos - Cooler        0       0       0       0         0 unidad
+                Helado Savory Kriko 65ml Liquidos - Cooler       35       0       0       0        35 unidad
+                   Helado Savory Pina 1L Liquidos - Cooler        0       0       0       0         0 unidad
+                    Helado Trencito 70ml Liquidos - Cooler       30       0       0       0        30 unidad
+                     Helado Trululu 70ml Liquidos - Cooler       35      13       0      13        22 unidad
+         Helado Xplori Espectrolado 68cc Liquidos - Cooler       30      26       0      26         4 unidad
+                          Hielo Cubo 1Kg Liquidos - Cooler       45      43       0      43         2 unidad
+       Isotonica Fastlyte Frutilla 625ml Liquidos - Cooler        7       9      12      21        -2 unidad
+               Jugo Andina Durazno 300ml Liquidos - Cooler       14      11      24      35         3 unidad
+               Jugo Andina Naranja 300ml Liquidos - Cooler       14       9       6      15         5 unidad
+       Jugo del Valle Durazno Lata 340cc Liquidos - Cooler        7      12      36      48        -5 unidad
+       Jugo Del Valle Manzana Lata 340cc Liquidos - Cooler        7      12      12      24        -5 unidad
+                Jugo Watts Durazno 300cc Liquidos - Cooler        7      16       0      16        -9 unidad
+                Jugo Watts Naranja 300cc Liquidos - Cooler        7      27       0      27       -20 unidad
+                    Kem Zero Azucar 1.5L Liquidos - Cooler        0       0       0       0         0 unidad
+                    Monster Energy 473ml Liquidos - Cooler       22      47     120     167       -25 unidad
+          Monster Green Zero Sugar 473ml Liquidos - Cooler       14      33      36      69       -19 unidad
+                  Monster Lemonade 473ml Liquidos - Cooler       14      20      12      32        -6 unidad
+                Monster Mango Loco 473ml Liquidos - Cooler       14      25      30      55       -11 unidad
+                  Monster Paradise 473ml Liquidos - Cooler       14      18      30      48        -4 unidad
+                    Monster Ripper 473ml Liquidos - Cooler       14      15       0      15        -1 unidad
+                     Monster Ultra 473ml Liquidos - Cooler       14      27      48      75       -13 unidad
+                Monster Ultra Gold 473ml Liquidos - Cooler        0       0       0       0         0 unidad
+         Monster Ultra Peachy Keen 473cc Liquidos - Cooler       14      10       0      10         4 unidad
+            Monster Ultra Watermel 473ml Liquidos - Cooler        7      17      18      35       -10 unidad
+               Nectar Watts Durazno 1.5L Liquidos - Cooler        5       6       6      12        -1 unidad
+               Nectar Watts Naranja 1.5L Liquidos - Cooler        5       7      12      19        -2 unidad
+                  Nectar Watts Pina 1.5L Liquidos - Cooler        5       8       0       8        -3 unidad
+         Pepsi Zero Azucar Lata 24X350cc Liquidos - Cooler        7       0       0       0         7 unidad
+              Powerade Frozen Blast 1.1L Liquidos - Cooler       10      22      24      46       -12 unidad
+                      Powerade Rojo 1.1L Liquidos - Cooler        5      17      24      41       -12 unidad
+             Red Bull Blue Edition 250ml Liquidos - Cooler       15      15      43      58         0 unidad
+             Red Bull Dragon Fruit 250ml Liquidos - Cooler       15      15      26      41         0 unidad
+            Red Bull Flor de Sauco 250ml Liquidos - Cooler       15      29       0      29       -14 unidad
+              Red Bull Purple Acai 250ml Liquidos - Cooler       15      16      11      27        -1 unidad
+       Red Bull Red Edition Sandia 250cc Liquidos - Cooler       15      16      27      43        -1 unidad
+               Red Bull Sugar Free 250ml Liquidos - Cooler       30      17      64      81        13 unidad
+               Red Bull Sugar Free 355ml Liquidos - Cooler       30      40      16      56       -10 unidad
+               Red Bull Sugar Free 473ml Liquidos - Cooler        8      15      27      42        -7 unidad
+              Red Bull Tradicional 250ml Liquidos - Cooler       30      20       0      20        10 unidad
+              Red Bull Tradicional 355ml Liquidos - Cooler       30      15       0      15        15 unidad
+              Red Bull Tradicional 473ml Liquidos - Cooler       12       8       5      13         4 unidad
+         Red Bull Winter Juneberry 250ml Liquidos - Cooler        0       0       0       0         0 unidad
+                   Red Bull Yellow 250ml Liquidos - Cooler       15      16      13      29        -1 unidad
+                     Red Bull Zero 250ml Liquidos - Cooler       15      16       0      16        -1 unidad
+  Te Frio Lipton Ice Negro Durazno 600ml Liquidos - Cooler        6       7       6      13        -1 unidad
+    Te Frio Lipton Te Negro Durazno 1.5L Liquidos - Cooler        5       6       0       6        -1 unidad
+          Te Lipton Ice Negro Fram 600ml Liquidos - Cooler        6      30      18      48       -24 unidad
+                       Bater 9V Duracell Non Food & In/Out       20      12       0      12         8 unidad
+                          Duracell D2 x2 Non Food & In/Out       10       4      12      16         6 unidad
+                        Encendedor Djeep Non Food & In/Out       32      38     160     198        -6 unidad
+                   Encendedor Mini Djeep Non Food & In/Out        0       0       0       0         0 unidad
+             Encendedor Ronson Clearlite Non Food & In/Out       40      25     160     185        15 unidad
+                     Pila Duracell AA x1 Non Food & In/Out       40      16     140     156        24 unidad
+                    Pila Duracell AAA x1 Non Food & In/Out       40      24      30      54        16 unidad
+                            Premier Fine Non Food & In/Out       25      37       0      37       -12 unidad
+                            Premier Plus Non Food & In/Out       25       1       0       1        24 unidad
+         Vapo Vuse GO 1000 APPLE SOUR CN Non Food & In/Out        8       2       0       2         6 unidad
+         Vapo Vuse GO 1000 BANANA ICE CN Non Food & In/Out        8       8       0       8         0 unidad
+     Vapo Vuse GO 1000 BERRY BLEND V3 CN Non Food & In/Out        8       5       0       5         3 unidad
+       Vapo Vuse GO 1000 BLOOD ORANGE CN Non Food & In/Out        8       6       0       6         2 unidad
+     Vapo Vuse GO 1000 BLUE RASPBERRY CN Non Food & In/Out        8       6       0       6         2 unidad
+     Vapo Vuse GO 1000 CREAMY TOBACCO CN Non Food & In/Out        8       8       0       8         0 unidad
+          Vapo Vuse GO 1000 GRAPE ICE CN Non Food & In/Out        8       7       0       7         1 unidad
+           Vapo Vuse GO 1000 MINT ICE CN Non Food & In/Out        8       8       0       8         0 unidad
+    Vapo Vuse GO 1000 STRAWBERRY KIWI CN Non Food & In/Out        8       7       0       7         1 unidad
+  Vapo Vuse GO 1000 WATERMELON ICE V3 CN Non Food & In/Out        8       7       0       7         1 unidad
+         Vapo Vuse Go 5000 Apple Sour Cn Non Food & In/Out        8       0       0       0         8 unidad
+         Vapo Vuse Go 5000 Banana Ice Cn Non Food & In/Out        8       0       0       0         8 unidad
+     Vapo Vuse Go 5000 Berry Blend V3 Cn Non Food & In/Out        8       3       0       3         5 unidad
+       Vapo Vuse Go 5000 Blood Orange Cn Non Food & In/Out        8       0       0       0         8 unidad
+     Vapo Vuse Go 5000 Blue Raspberry Cn Non Food & In/Out        8       1       0       1         7 unidad
+          Vapo Vuse Go 5000 Grape Ice Cn Non Food & In/Out        8       4       0       4         4 unidad
+       Vapo Vuse Go 5000 Mango Ice V3 Cn Non Food & In/Out        8       0       0       0         8 unidad
+           Vapo Vuse Go 5000 Mint Ice Cn Non Food & In/Out        8       0       0       0         8 unidad
+    Vapo Vuse Go 5000 Strawberry Kiwi Cn Non Food & In/Out        8       0       0       0         8 unidad
+  Vapo Vuse Go 5000 Watermelon Ice V3 Cn Non Food & In/Out        8       1       0       1         7 unidad
+                   Alfajor Bon o Bon 40g            Snacks       20       2       0       2        18 unidad
+            Alfajor Bon o Bon Blanco 40g            Snacks       20      37      40      77       -17 unidad
+            Barra Chocolate Snickers 52g            Snacks       28      57      31      88       -29 unidad
+   Barra Chocolate Snickers Almendra 43g            Snacks       28      33      42      75        -5 unidad
+            Barra de Chocolate Hobby 35g            Snacks       40      35       0      35         5 unidad
+     Barra de Chocolate Hobby Energy 55g            Snacks       32       0       0       0        32 unidad
+        Barra de Chocolate Prestigio 35g            Snacks       35      14       0      14        21 unidad
+                  Barra Hobby Energy 50g            Snacks       32       2       0       2        30 unidad
+         Barra Wild Protein Caramelo 45g            Snacks       15      17      22      39        -2 unidad
+         Barra Wild Protein ChocMani 45g            Snacks       15      13      13      26         2 unidad
+        Barra Wild Protein Chocolate 45g            Snacks       15      24      20      44        -9 unidad
+     Barra Wild Protein Pie De Limon 45g            Snacks        6       6       6      12         0 unidad
+    Barra Wild Protein Vegan Naranja 45g            Snacks        0       0       0       0         0 unidad
+ Barra Wild Protein Vegana Chocolate 45g            Snacks        9      10       6      16        -1 unidad
+Barra Wild Protein Vegana Coco Choco  45            Snacks        0       0       0       0         0 unidad
+                 Bizcocho Chocman Xl 33g            Snacks       21      38       0      38       -17 unidad
+                   Caramelo Push Pop 14g            Snacks       60      42      20      62        18 unidad
+               Caramelos Alka Cherry 29g            Snacks       36      29       0      29         7 unidad
+                Caramelos Alka Menta 29g            Snacks        0       0       0       0         0 unidad
+               Caramelos Alka Mentol 24g            Snacks       36      29      24      53         7 unidad
+               Caramelos Alka Strong 24g            Snacks       36      27      24      51         9 unidad
+                Caramelos Full Limon 27g            Snacks       35      35       5      40         0 unidad
+       Caramelos Halls Cereza Lyptus 25g            Snacks       36      17      36      53        19 unidad
+        Caramelos Halls Extra Strong 24g            Snacks       36      13       0      13        23 unidad
+          Caramelos Halls Limon Miel 25g            Snacks       36      18      24      42        18 unidad
+        Caramelos Halls Liptus Menta 25g            Snacks       36      24      60      84        12 unidad
+       Caramelos Halls Mentho Liptus 25g            Snacks        0       0       0       0         0 unidad
+                Caramelos Halls Mora 25g            Snacks       36      27      36      63         9 unidad
+                  Caramelos Mentitas 25g            Snacks       35      28      25      53         7 unidad
+              Caramelos Mentos Fruit 29g            Snacks       15       1       0       1        14 unidad
+         Caramelos Mentos Kiss Fresa 35g            Snacks       20      44       0      44       -24 unidad
+         Caramelos Mentos Kiss Menta 35g            Snacks       20      15      12      27         5 unidad
+            Caramelos Mentos Menta 29.4g            Snacks       15       0       0       0        15 unidad
+         Caramelos Skittles Original 61g            Snacks       30      18      39      57        12 unidad
+             Caramelos Skittles Sour 51g            Snacks       30      11      10      21        19 unidad
+        Caramelos Starburst Original 58g            Snacks       18      23      35      58        -5 unidad
+             Caramelos Tic Tac Menta 16g            Snacks       12       6       0       6         6 unidad
+           Caramelos Tic Tac Naranja 16g            Snacks       12       0       0       0        12 unidad
+                 Chicle Bigtime Aqua 11g            Snacks       50      38      20      58        12 unidad
+            Chicle Bigtime Fresh Ice 11g            Snacks       25      25       0      25         0 unidad
+             Chicle Bigtime Frutilla 11g            Snacks       25      21      60      81         4 unidad
+                Chicle Bigtime Menta 11g            Snacks       25      54      20      74       -29 unidad
+          Chicle Bigtime Refrescante 11g            Snacks       50       0      60      60        50 unidad
+               Chicle Bigtime Sandia 11g            Snacks       25      20       0      20         5 unidad
+               Chicle Bigtime Strong 11g            Snacks       50      40      20      60        10 unidad
+      Chicle Bigtime Ultra Cleanmint 24g            Snacks       14      24      24      48       -10 unidad
+      Chicle Bigtime Ultra Greenmint 24g            Snacks       14       2       0       2        12 unidad
+       Chicle Bigtime Ultra Redberry 24g            Snacks       14      29      36      65       -15 unidad
+         Chicle Bigtime Ultra Strong 26g            Snacks       14      22      13      35        -8 unidad
+    Chicle Hubba Bubba Tape Original 56g            Snacks        8       0       0       0         8 unidad
+        Chicle Mentos Bot Pure Berry 30g            Snacks        4       0       0       0         4 unidad
+         Chicle Mentos Bot Pure Mint 30g            Snacks        4       0       0       0         4 unidad
+    Chicle Mentos Bot Pure Spearmint 30g            Snacks        8      11       0      11        -3 unidad
+           Chicle Mentos Botella Up2U60g            Snacks        4       2       0       2         2 unidad
+     Chicle Orbit Botella Bubblemint 64g            Snacks        3       2       0       2         1 unidad
+    Chicle Orbit Botella Hierbabuena 64g            Snacks        3       0       0       0         3 unidad
+          Chicle Orbit Botella Menta 64g            Snacks        3       0       0       0         3 unidad
+          Chicle Orbit Botella White 64g            Snacks        3       0       0       0         3 unidad
+             Chicle Orbit Bubblemint 14g            Snacks       30      10       0      10        20 unidad
+           Chicle Orbit Eucalipto SA 14g            Snacks       30       8       0       8        22 unidad
+               Chicle Orbit Menta SA 14g            Snacks       30      44       0      44       -14 unidad
+           Chicle Orbit Spearmint SA 14g            Snacks       30       0       0       0        30 unidad
+       Chicle Orbit White Menta Suave14g            Snacks       30      10       0      10        20 unidad
+            Chicle Trident Bot Menta 45g            Snacks        4       0       0       0         4 unidad
+        Chicle Trident Botella Fresa 45g            Snacks        4       0       0       0         4 unidad
+   Chicle Trident Botella Yerbabuena 45g            Snacks        4       3       0       3         1 unidad
+                 Chicle Trident Fresa 8g            Snacks        0       0       0       0         0 unidad
+  Chicle Trident Infiniti Peppermint 26g            Snacks       14      18      12      30        -4 unidad
+   Chicle Trident Infiniti Spearmint 26g            Snacks       14      14       0      14         0 unidad
+           Chicle Trident Menta Suave 8g            Snacks        0       0       0       0         0 unidad
+                Chicle Trident Sandia 8g            Snacks        0       0       0       0         0 unidad
+            Chicle Trident Yerbabuena 8g            Snacks        0       0       0       0         0 unidad
+        Chicle Trident Yerbabuena SA 30g            Snacks        0       0       0       0         0 unidad
+             Choco Cracs 160gr Evercrisp            Snacks       12      10      18      28         2 unidad
+                 Chocolate Bon o Bon 30g            Snacks       36       3       0       3        33 unidad
+               Chocolate Costa Rama 115g            Snacks       12      10       0      10         2 unidad
+        Chocolate Ferrero Rocher T-3 37g            Snacks       18      23       0      23        -5 unidad
+                    Chocolate In Kat 90g            Snacks        0       0       0       0         0 unidad
+            Chocolate Kit Kat Blanco 41g            Snacks       24      -8       0      -8        32 unidad
+              Chocolate Kit Kat Milk 41g            Snacks       24      18       0      18         6 unidad
+            Chocolate M&M Minis Tubo 30g            Snacks       13       7       0       7         6 unidad
+                Chocolate M&M Peanut 49g            Snacks       12      21       0      21        -9 unidad
+         Chocolate M&M Peanut Butter 46g            Snacks       12      20      19      39        -8 unidad
+                 Chocolate M&M Plain 48g            Snacks       12       5       0       5         7 unidad
+                     Chocolate Milka 45g            Snacks       25      19      23      42         6 unidad
+               Chocolate Milka Leche 55g            Snacks       30      17      21      38        13 unidad
+                 Chocolate Milky Way 48g            Snacks       28      24       6      30         4 unidad
+                    Chocolate Reeses 42g            Snacks       20      -1       0      -1        21 unidad
+             Chocolate Reeses Blanco 39g            Snacks        0       0       0       0         0 unidad
+         Chocolate Reeses Nutrageous 47g            Snacks       20       0       0       0        20 unidad
+                 Chocolate Rocklets 150g            Snacks       10      10      11      21         0 unidad
+                  Chocolate Rocklets 35g            Snacks       30       0       0       0        30 unidad
+             Chocolate Rocklets Mani 35g            Snacks       25      16       0      16         9 unidad
+             Chocolate Rolls Blanco 140g            Snacks        7       0       0       0         7 unidad
+             Chocolate Rolls Crispy 130g            Snacks        7       0       0       0         7 unidad
+           Chocolate Rolls Crocante 150g            Snacks        7       7       0       7         0 unidad
+               Chocolate Rolls Nuts 150g            Snacks        7      11       8      19        -4 unidad
+               Chocolate Sahne Nuss 250g            Snacks       20      27       0      27        -7 unidad
+                Chocolate Sahne Nuss 30g            Snacks       35       0       0       0        35 unidad
+                Chocolate Sahne Nuss 90g            Snacks       30      17       0      17        13 unidad
+             Chocolate Sahne Nuss SA 90g            Snacks        0       0       0       0         0 unidad
+          Chocolate Toblerone Leche 100g            Snacks        0       0       0       0         0 unidad
+          Chocolate Toblerone Leche 200g            Snacks        0       0       0       0         0 unidad
+                 Chocolate Trencito 150g            Snacks       25      26       0      26        -1 unidad
+                  Chocolate Trencito 24g            Snacks       35      37       0      37        -2 unidad
+                  Chocolate Trencito 80g            Snacks       32      48       0      48       -16 unidad
+           Chocolate Trencito Balls 105g            Snacks        0       0       0       0         0 unidad
+           Chocolate Trencito Balls 115g            Snacks        0       0       0       0         0 unidad
+                   Chocolate Vizzio 120g            Snacks       12      16      12      28        -4 unidad
+            Galleta Morocha Tremenda 80g            Snacks       15      17       0      17        -2 unidad
+             Galletas Bañada Chokita 30g            Snacks       20      14       0      14         6 unidad
+               Galletas Bañada Golpe 27g            Snacks       50      59      35      94        -9 unidad
+         Galletas Bañada Kitkat Dark 41g            Snacks       24      40       0      40       -16 unidad
+             Galletas Bañada Super 8 29g            Snacks       15       4       0       4        11 unidad
+                Galletas Bañada Twix 50g            Snacks       20      32       0      32       -12 unidad
+                  Galletas Bon o Bon 95g            Snacks       20      24       0      24        -4 unidad
+              Galletas Costa Manteq 140g            Snacks       18       1       0       1        17 unidad
+                    Galletas Donuts 100g            Snacks       20      21      24      45        -1 unidad
+            Galletas Frac Chocolate 110g            Snacks       12      12      14      26         0 unidad
+            Galletas Frac Chocolate 130g            Snacks        0       0       0       0         0 unidad
+              Galletas Frac Clasica 110g            Snacks       12      -7       0      -7        19 unidad
+              Galletas Frac Clasica 130g            Snacks        0      25      10      35       -25 unidad
+             Galletas Frac Vainilla 110g            Snacks       12      12      17      29         0 unidad
+             Galletas Frac Vainilla 130g            Snacks        0       3       0       3        -3 unidad
+                     Galletas Gretel 85g            Snacks       24      10      20      30        14 unidad
+    Galletas Gretel Chocolate Blanco 85g            Snacks       24      31       0      31        -7 unidad
+                      Galletas Kuky 120g            Snacks       30       0       0       0        30 unidad
+               Galletas Mckay Grill 140g            Snacks        8      21       0      21       -13 unidad
+                        Galletas Nik 71g            Snacks       20      39      26      65       -19 unidad
+                   Galletas Obsesion 85g            Snacks       21      54       0      54       -33 unidad
+                      Galletas Oreo 108g            Snacks       30      18       0      18        12 unidad
+            Galletas Oreo Chocolate 108g            Snacks        0       0       0       0         0 unidad
+        Galletas Oreo Cookies Cream 108g            Snacks        0       0       0       0         0 unidad
+                  Galletas Rigochoc 113g            Snacks       14      32       0      32       -18 unidad
+                     Galletas Toddy 142g            Snacks       30      44       0      44       -14 unidad
+          Galletas Triton Chocolate 126g            Snacks       24       0       0       0        24 unidad
+           Galletas Triton Vainilla 126g            Snacks       24       0       0       0        24 unidad
+                    Galletas Tuareg 120g            Snacks       24      31      16      47        -7 unidad
+                   Gomitas Amberries 25g            Snacks       20      30      14      44       -10 unidad
+                   Gomitas Ambrosito 25g            Snacks       20      20      20      40         0 unidad
+           Gomitas Chupa Chups Xtrem 57g            Snacks       20      13      18      31         7 unidad
+                       Gomitas Flipy 25g            Snacks       20      20      10      30         0 unidad
+                    Gomitas Frugele 100g            Snacks        0       0       0       0         0 unidad
+                        Gomitas Loop 25g            Snacks       20      16      35      51         4 unidad
+                Halls Extra Strong 27,5g            Snacks        0      -1       0      -1         1 unidad
+                        Halls Mentol 28g            Snacks       36       8       0       8        28 unidad
+              Hersheys Cookies&Creme 77g            Snacks        0       0       0       0         0 unidad
+               Lays Corte Americano 100g            Snacks       10      12      13      25        -2 unidad
+              Mani Salado Evercrisp 140g            Snacks       10      10       8      18         0 unidad
+             Mani Salado Marco Polo 150g            Snacks        0       0       0       0         0 unidad
+                            Mantecol 41g            Snacks       70      73     120     193        -3 unidad
+                      Morocha Balls 105g            Snacks       10       8       0       8         2 unidad
+  Papas Crema Ciboulette Marco Polo 180g            Snacks        4       0       0       0         4 unidad
+        Papas Lays Artesanas Merken 150g            Snacks        5       0       0       0         5 unidad
+           Papas Lays Artesanas Sal 150g            Snacks        5       0       0       0         5 unidad
+           Papas Lays Jamon Serrano 180g            Snacks        0       3       8      11        -3 unidad
+                 Papas Lays Oregano 180g            Snacks        0       3       8      11        -3 unidad
+            Papas Lays Stax Cebolla 134g            Snacks        8       2       0       2         6 unidad
+            Papas Lays Stax Cheddar 134g            Snacks        8      11       5      16        -3 unidad
+           Papas Lays Stax Original 134g            Snacks        8       9      18      27        -1 unidad
+     Papas Marco Polo Jamon Serrano 180g            Snacks        4       0       0       0         4 unidad
+ Papas Marco Polo Rustic Queso Oreg 185g            Snacks        5       0       0       0         5 unidad
+Papas Marco Polo Rustic Sal Him Pim 185g            Snacks        5       0       0       0         5 unidad
+           Papas MP Corte Americano 230g            Snacks        5       0       0       0         5 unidad
+           Papas MP Rusticas Merken 185g            Snacks        5       5       0       5         0 unidad
+              Papas MP Rusticas Sal 185g            Snacks        5       0       0       0         5 unidad
+             Papas Pringles Cebolla 109g            Snacks        3       0       0       0         3 unidad
+            Papas Pringles Original 104g            Snacks        4       2       0       2         2 unidad
+               Papas Pringles Queso 109g            Snacks        3      10       0      10        -7 unidad
+                  Rocklets Chocolate 30g            Snacks       30      32       0      32        -2 unidad
+                       Rocklets Mani 30g            Snacks       25       0       0       0        25 unidad
+              Skittles Wild Berry 61.5 g            Snacks       30      32       0      32        -2 unidad
+                     Snack Detodito 120g            Snacks       10      15      22      37        -5 unidad
+                      Snack Doritos 100g            Snacks       12      15       0      15        -3 unidad
+                      Snack Doritos 285g            Snacks        8      15       4      19        -7 unidad
+            Snack Doritos Aji Limon 100g            Snacks        4       2       0       2         2 unidad
+                          Snack Flip 30g            Snacks        0       0       0       0         0 unidad
+                  Snack Flip Manzana 30g            Snacks        0       0       0       0         0 unidad
+            Snack Flip Mix Vegetales 30g            Snacks        0       0       0       0         0 unidad
+                  Snack Nutella & Go 52g            Snacks        8       6       0       6         2 unidad
+               Snack Nutella B Ready 22g            Snacks       40      18       0      18        22 unidad
+             Snack Ramitas Original 110g            Snacks        7      21       0      21       -14 unidad
+             Snack Ramitas Original 230g            Snacks       10       9       3      12         1 unidad
+                Snack Ramitas Queso 110g            Snacks        7      12       0      12        -5 unidad
+                Snack Ramitas Queso 230g            Snacks        8       5       3       8         3 unidad
+                Snack Twistos Jamon 100g            Snacks        7       9       5      14        -2 unidad
+                Snack Twistos Queso 100g            Snacks        7       5       9      14         2 unidad
+Snacks Doritos Dinamita Flaming Hot 100g            Snacks        4       8       0       8        -4 unidad
+Snacks Doritos Flaming Hot Dinamita 130g            Snacks        0       0       0       0         0 unidad
+         Stick Snack In La Preferida 18g            Snacks       22      21       0      21         1 unidad
+                  Tic Tac 100 Menta 49 g            Snacks       12       9       0       9         3 unidad
+         TicTac Diversión de Frutas 49 g            Snacks        0       0       0       0         0 unidad
+                     TicTac Naranja 49 g            Snacks        0       0       0       0         0 unidad
+                      Turron de Mani 40g            Snacks       20      18       0      18         2 unidad
+            Wild Protein Munchy Mani 30g            Snacks        0       0       0       0         0 unidad
+  Wild Protein Pro Cookies And Cream 60g            Snacks        0       0       0       0         0 unidad
