@@ -1,207 +1,246 @@
 Buen dia,
 Anexo encontraran los movimientos a realizar en la tienda,
 
-Del producto Carbon Premium 2.5kg agregar: 5 Unidades
-Del producto Huevo Sorpresa Peppa Pig agregar: 39 Unidades
-Del producto Pres. Lifestyles Stimula x3 agregar: 2 Unidades
-Del producto Tarjeta Copec Pay agregar: 15 Unidades
+Del producto Carbon Premium 2.5kg agregar: 3 Unidades
+Del producto Huevo Sorpresa Peppa Pig agregar: 42 Unidades
+Del producto Prontin De Peluche agregar: 3 Unidades
 Del producto Croissant Manjar Arcoalimentos agregar: 7 Unidades
 Del producto Donut Cob Chocolate Con Cereal BM agregar: 4 Unidades
-Del producto Donut Relleno Chocolate BM agregar: 4 Unidades
-Del producto Donut Relleno Frambuesa BM agregar: 5 Unidades
-Del producto Magdalena Con Chips de Chocolate BOL agregar: 3 Unidades
-Del producto Magdalena Vainilla BOL agregar: 6 Unidades
-Del producto Muffin Americano Arandano BM agregar: 3 Unidades
-Del producto Muffin Americano Chip Chocolate BM agregar: 6 Unidades
-Del producto Muffin Relleno Manjar Nuez BM agregar: 3 Unidades
-Del producto Queque Limon Glaseado 87g agregar: 6 Unidades
-Del producto Chaparrita Vienesa Queso agregar: 11 Unidades
-Del producto Croissant Alargado Fresco Jamon Queso agregar: 12 Unidades
-Del producto Doble Hamburguesa Queso Cheddar Fresco agregar: 11 Unidades
-Del producto Hamburguesa Cheddar Bacon Fresco agregar: 14 Unidades
+Del producto Donut Relleno Chocolate BM agregar: 1 Unidades
+Del producto Donut Relleno Frambuesa BM agregar: 1 Unidades
+Del producto Magdalena Con Chips de Chocolate BOL agregar: 6 Unidades
+Del producto Magdalena Vainilla BOL agregar: 7 Unidades
+Del producto Muffin Americano Banana Nuez BM agregar: 3 Unidades
+Del producto Pan de Chocolate Congelado agregar: 1 Unidades
+Del producto Queque Limon Glaseado 87g agregar: 5 Unidades
+Del producto Chaparrita Vienesa Queso agregar: 14 Unidades
+Del producto Croissant Alargado Jamon Queso Fresco agregar: 29 Unidades
+Del producto Doble Hamburguesa Queso Cheddar Fresco agregar: 15 Unidades
+Del producto Hamburguesa Cheddar Bacon Fresco agregar: 15 Unidades
 Del producto Hamburguesa Classic Cheddar Fresco agregar: 15 Unidades
-Del producto Hamburguesa Fresco Cheddar Bacon Cong agregar: 16 Unidades
+Del producto Hamburguesa Fresco Cheddar Bacon Cong agregar: 15 Unidades
 Del producto Mechada Queso Fresco agregar: 15 Unidades
-Del producto Miga Ave Mayo Fresco agregar: 10 Unidades
+Del producto Miga Ave Mayo Fresco agregar: 15 Unidades
 Del producto Miga Ave Palta Fresco agregar: 15 Unidades
-Del producto Miga Ave Pimenton Fresco agregar: 1 Unidades
-Del producto Miga Barros Jarpa Fresco agregar: 11 Unidades
-Del producto Sandwich Pollo Rebozado Fresco 229g agregar: 9 Unidades
-Del producto Sandwich Rustico Pollo Asado (Ambiente) agregar: 10 Unidades
+Del producto Miga Ave Pimenton Fresco agregar: 15 Unidades
+Del producto Miga Barros Jarpa Fresco agregar: 15 Unidades
+Del producto Sandwich Pollo Rebozado Fresco 229g agregar: 15 Unidades
+Del producto Sandwich Rustico Pollo Asado (Ambiente) agregar: 9 Unidades
 Del producto Sandwich Rustico Salmon Ahumado Ambiente agregar: 10 Unidades
-Del producto Ins. Azucar Sachet Punto Cj 800U  agregar: 469 Unidades
-Del producto Ins. Sucralosa Punto Cj 500U agregar: 469 Unidades
-Del producto Ins. Tapa Vaso Cafe S M L Papel 2025 agregar: 50 Unidades
+Del producto Cuna Porta Hd 17 Cm agregar: 3 Unidades
+Del producto Ins. Azucar Sachet Punto Cj 800U  agregar: 530 Unidades
+Del producto Ins. Mostaza Bolsa agregar: 1 Unidades
+Del producto Ins. Nescafe Grano 6x1kg agregar: 2 Unidades
+Del producto Ins. Revolvedor Madera agregar: 573 Unidades
+Del producto Ins. Sucralosa Punto Cj 500U agregar: 530 Unidades
+Del producto Ins. Vaso Cafe 16oz PX2 Pronto Bio 2023 agregar: 123 Unidades
+Del producto Vienesa 22 cm (Calibre 24) V2 agregar: 2 Unidades
 Del producto Agua Cachantun Con Gas 1.6L agregar: 5 Unidades
-Del producto Agua Cachantun+ Citrus 600cc agregar: 3 Unidades
-Del producto Agua Sabor Vitaminwater Energy 500cc agregar: 7 Unidades
-Del producto Agua Vital Sin Gas 600cc agregar: 3 Unidades
-Del producto Bebida Fanta Midcal Pina 591cc agregar: 8 Unidades
-Del producto Bebida Kem Pina 1.5L agregar: 1 Unidades
-Del producto Bebida Kem Xtreme Lata 350cc agregar: 2 Unidades
-Del producto Bebida Pepsi 600cc agregar: 1 Unidades
-Del producto Bebida Pepsi Lata 350cc agregar: 7 Unidades
-Del producto Bebida Sprite Sin Azucar 591cc agregar: 1 Unidades
-Del producto Coca Cola Lata 350cc agregar: 11 Unidades
-Del producto Helado Bilz Y Pap 92ml agregar: 4 Unidades
-Del producto Helado Chocolito 85ml agregar: 5 Unidades
-Del producto Helado Crazy Chirimoya Alegre 170ml agregar: 11 Unidades
-Del producto Helado Crazy Flocos 170ml agregar: 7 Unidades
-Del producto Helado Crazy Frambuesa 170ml agregar: 24 Unidades
-Del producto Helado Crazy Sahne Nuss 170ml  agregar: 5 Unidades
-Del producto Helado Crocanty 90ml agregar: 3 Unidades
-Del producto Helado Danky 21 125ml agregar: 18 Unidades
+Del producto Bebida Coca Cola SA 591cc agregar: 11 Unidades
+Del producto Bebida Fanta Midcal Pina 591cc agregar: 15 Unidades
+Del producto Bebida Kem Pina Lata 350cc agregar: 3 Unidades
+Del producto Bebida Limon Soda 600cc agregar: 10 Unidades
+Del producto Bebida Pepsi 1.5L agregar: 5 Unidades
+Del producto Bebida Pepsi 600cc agregar: 13 Unidades
+Del producto Bebida Pepsi Lata 350cc agregar: 1 Unidades
+Del producto Coca Cola Lata 350cc agregar: 10 Unidades
+Del producto Gatorade Fruta Tropical 1L agregar: 1 Unidades
+Del producto Gatorlit Uva 591cc agregar: 6 Unidades
+Del producto Helado Bilz Y Pap 92ml agregar: 15 Unidades
+Del producto Helado Chocolito 85ml agregar: 25 Unidades
+Del producto Helado Crazy Chirimoya Alegre 170ml agregar: 15 Unidades
+Del producto Helado Crazy Flocos 170ml agregar: 12 Unidades
+Del producto Helado Crazy Frambuesa 170ml agregar: 19 Unidades
+Del producto Helado Crazy Sahne Nuss 170ml  agregar: 9 Unidades
+Del producto Helado Crocanty 90ml agregar: 26 Unidades
+Del producto Helado Danky 21 125ml agregar: 14 Unidades
 Del producto Helado Danky Choc Platano 125ml agregar: 32 Unidades
-Del producto Helado Danky Nogatonga 125ml agregar: 25 Unidades
-Del producto Helado Danky Sahne Nuss 125ml agregar: 27 Unidades
-Del producto Helado Egocentrico 85ml agregar: 28 Unidades
-Del producto Helado Lolly Pop Naranja 90ml agregar: 14 Unidades
-Del producto Helado Mega Almendras Vainilla 90ml agregar: 15 Unidades
-Del producto Helado Mega Cookies Cream 90ml agregar: 18 Unidades
+Del producto Helado Danky Nogatonga 125ml agregar: 6 Unidades
+Del producto Helado Danky Sahne Nuss 125ml agregar: 19 Unidades
+Del producto Helado Egocentrico 85ml agregar: 30 Unidades
+Del producto Helado Lolly Pop Naranja 90ml agregar: 17 Unidades
+Del producto Helado Mega Almendras Vainilla 90ml agregar: 28 Unidades
+Del producto Helado Mega Cookies Cream 90ml agregar: 25 Unidades
 Del producto Helado Mega Crunchy Dulce De Leche 90g agregar: 28 Unidades
-Del producto Helado Mega Frambuesa 90ml agregar: 8 Unidades
+Del producto Helado Mega Frambuesa 90ml agregar: 24 Unidades
 Del producto Helado Mega Kit Kat 85ml agregar: 28 Unidades
-Del producto Helado Mega Kit Kat Gold 85ml agregar: 2 Unidades
+Del producto Helado Mega Kit Kat Gold 85ml agregar: 10 Unidades
 Del producto Helado Mega Manjar Galletas 90ml agregar: 28 Unidades
-Del producto Helado Mega Sahne Nuss 90ml agregar: 5 Unidades
+Del producto Helado Mega Sahne Nuss 90ml agregar: 13 Unidades
 Del producto Helado Paleta Triton 80ml agregar: 28 Unidades
-Del producto Helado Pura Fruta Frambuesa 75ml agregar: 5 Unidades
-Del producto Helado Sangurucho Vainilla 125ml agregar: 31 Unidades
+Del producto Helado Pura Fruta Frambuesa 75ml agregar: 6 Unidades
+Del producto Helado Sangurucho Vainilla 125ml agregar: 32 Unidades
 Del producto Helado Savory Kriko 65ml agregar: 35 Unidades
 Del producto Helado Trencito 70ml agregar: 30 Unidades
-Del producto Helado Trululu 70ml agregar: 22 Unidades
-Del producto Helado Xplori Espectrolado 68cc agregar: 4 Unidades
-Del producto Hielo Cubo 1Kg agregar: 1 Unidades
-Del producto Jugo Andina Durazno 300ml agregar: 1 Unidades
-Del producto Jugo Andina Naranja 300ml agregar: 4 Unidades
-Del producto Monster Mango Loco 473ml agregar: 6 Unidades
-Del producto Monster Ultra 473ml agregar: 10 Unidades
-Del producto Monster Ultra Peachy Keen 473cc agregar: 2 Unidades
+Del producto Helado Trululu 70ml agregar: 10 Unidades
+Del producto Helado Xplori Espectrolado 68cc agregar: 7 Unidades
+Del producto Jugo Andina Durazno 300ml agregar: 2 Unidades
+Del producto Jugo Andina Naranja 300ml agregar: 5 Unidades
+Del producto Jugo del Valle Durazno Lata 340cc agregar: 3 Unidades
+Del producto Monster Ultra Gold 473ml agregar: 1 Unidades
+Del producto Monster Ultra Watermel 473ml agregar: 7 Unidades
 Del producto Pepsi Zero Azucar Lata 24X350cc agregar: 7 Unidades
+Del producto Red Bull Blue Edition 250ml agregar: 3 Unidades
+Del producto Red Bull Dragon Fruit 250ml agregar: 11 Unidades
+Del producto Red Bull Flor de Sauco 250ml agregar: 9 Unidades
 Del producto Red Bull Purple Acai 250ml agregar: 3 Unidades
-Del producto Red Bull Sugar Free 250ml agregar: 17 Unidades
-Del producto Red Bull Tradicional 250ml agregar: 21 Unidades
-Del producto Red Bull Tradicional 355ml agregar: 15 Unidades
-Del producto Red Bull Tradicional 473ml agregar: 5 Unidades
-Del producto Bater 9V Duracell agregar: 8 Unidades
-Del producto Duracell D2 x2 agregar: 6 Unidades
+Del producto Red Bull Red Edition Sandia 250cc agregar: 2 Unidades
+Del producto Red Bull Sugar Free 250ml agregar: 2 Unidades
+Del producto Red Bull Tradicional 355ml agregar: 8 Unidades
+Del producto Red Bull Tradicional 473ml agregar: 4 Unidades
+Del producto Red Bull Yellow 250ml agregar: 1 Unidades
+Del producto Red Bull Zero 250ml agregar: 15 Unidades
+Del producto Bater 9V Duracell agregar: 10 Unidades
+Del producto Duracell D2 x2 agregar: 2 Unidades
 Del producto Encendedor Ronson Clearlite agregar: 5 Unidades
-Del producto Pila Duracell AA x1 agregar: 24 Unidades
-Del producto Pila Duracell AAA x1 agregar: 16 Unidades
-Del producto Premier Plus agregar: 24 Unidades
-Del producto Vapo Vuse GO 1000 APPLE SOUR CN agregar: 6 Unidades
-Del producto Vapo Vuse GO 1000 BERRY BLEND V3 CN agregar: 2 Unidades
-Del producto Vapo Vuse GO 1000 BLOOD ORANGE CN agregar: 1 Unidades
-Del producto Vapo Vuse GO 1000 BLUE RASPBERRY CN agregar: 2 Unidades
-Del producto Vapo Vuse GO 1000 GRAPE ICE CN agregar: 1 Unidades
-Del producto Vapo Vuse GO 1000 STRAWBERRY KIWI CN agregar: 1 Unidades
-Del producto Vapo Vuse GO 1000 WATERMELON ICE V3 CN agregar: 1 Unidades
+Del producto Pila Duracell AA x1 agregar: 11 Unidades
+Del producto Pila Duracell AAA x1 agregar: 17 Unidades
+Del producto Premier Fine agregar: 25 Unidades
+Del producto Vapo Vuse GO 1000 APPLE SOUR CN agregar: 5 Unidades
+Del producto Vapo Vuse GO 1000 BANANA ICE CN agregar: 8 Unidades
+Del producto Vapo Vuse GO 1000 BERRY BLEND V3 CN agregar: 6 Unidades
+Del producto Vapo Vuse GO 1000 BLOOD ORANGE CN agregar: 8 Unidades
+Del producto Vapo Vuse GO 1000 BLUE RASPBERRY CN agregar: 7 Unidades
+Del producto Vapo Vuse GO 1000 CREAMY TOBACCO CN agregar: 4 Unidades
+Del producto Vapo Vuse GO 1000 GRAPE ICE CN agregar: 4 Unidades
+Del producto Vapo Vuse GO 1000 MINT ICE CN agregar: 2 Unidades
+Del producto Vapo Vuse GO 1000 STRAWBERRY KIWI CN agregar: 8 Unidades
+Del producto Vapo Vuse GO 1000 WATERMELON ICE V3 CN agregar: 8 Unidades
 Del producto Vapo Vuse Go 5000 Apple Sour Cn agregar: 8 Unidades
 Del producto Vapo Vuse Go 5000 Banana Ice Cn agregar: 8 Unidades
-Del producto Vapo Vuse Go 5000 Berry Blend V3 Cn agregar: 5 Unidades
+Del producto Vapo Vuse Go 5000 Berry Blend V3 Cn agregar: 8 Unidades
 Del producto Vapo Vuse Go 5000 Blood Orange Cn agregar: 8 Unidades
-Del producto Vapo Vuse Go 5000 Blue Raspberry Cn agregar: 5 Unidades
-Del producto Vapo Vuse Go 5000 Grape Ice Cn agregar: 4 Unidades
+Del producto Vapo Vuse Go 5000 Blue Raspberry Cn agregar: 6 Unidades
+Del producto Vapo Vuse Go 5000 Grape Ice Cn agregar: 7 Unidades
 Del producto Vapo Vuse Go 5000 Mango Ice V3 Cn agregar: 8 Unidades
 Del producto Vapo Vuse Go 5000 Mint Ice Cn agregar: 8 Unidades
 Del producto Vapo Vuse Go 5000 Strawberry Kiwi Cn agregar: 8 Unidades
-Del producto Vapo Vuse Go 5000 Watermelon Ice V3 Cn agregar: 5 Unidades
-Del producto Alfajor Bon o Bon 40g agregar: 18 Unidades
-Del producto Barra de Chocolate Hobby 35g agregar: 5 Unidades
+Del producto Vapo Vuse Go 5000 Watermelon Ice V3 Cn agregar: 8 Unidades
+Del producto Alfajor Bon o Bon 40g agregar: 3 Unidades
+Del producto Alfajor Bon o Bon Blanco 40g agregar: 3 Unidades
+Del producto Barra Chocolate Snickers Almendra 43g agregar: 17 Unidades
+Del producto Barra de Chocolate Hobby 35g agregar: 21 Unidades
 Del producto Barra de Chocolate Hobby Energy 55g agregar: 32 Unidades
-Del producto Barra de Chocolate Prestigio 35g agregar: 20 Unidades
-Del producto Barra Hobby Energy 50g agregar: 30 Unidades
-Del producto Barra Wild Protein ChocMani 45g agregar: 5 Unidades
-Del producto Caramelo Push Pop 14g agregar: 18 Unidades
-Del producto Caramelos Alka Cherry 29g agregar: 7 Unidades
-Del producto Caramelos Alka Mentol 24g agregar: 7 Unidades
+Del producto Barra de Chocolate Prestigio 35g agregar: 22 Unidades
+Del producto Barra Hobby Energy 50g agregar: 22 Unidades
+Del producto Barra Wild Protein Caramelo 45g agregar: 1 Unidades
+Del producto Barra Wild Protein ChocMani 45g agregar: 7 Unidades
+Del producto Barra Wild Protein Chocolate 45g agregar: 2 Unidades
+Del producto Bizcocho Chocman Xl 33g agregar: 7 Unidades
+Del producto Caramelo Push Pop 14g agregar: 16 Unidades
+Del producto Caramelos Alka Cherry 29g agregar: 1 Unidades
+Del producto Caramelos Alka Mentol 24g agregar: 6 Unidades
 Del producto Caramelos Alka Strong 24g agregar: 8 Unidades
-Del producto Caramelos Full Limon 27g agregar: 2 Unidades
-Del producto Caramelos Halls Cereza Lyptus 25g agregar: 16 Unidades
-Del producto Caramelos Halls Extra Strong 24g agregar: 22 Unidades
-Del producto Caramelos Halls Limon Miel 25g agregar: 18 Unidades
-Del producto Caramelos Halls Liptus Menta 25g agregar: 11 Unidades
-Del producto Caramelos Halls Mora 25g agregar: 7 Unidades
-Del producto Caramelos Mentitas 25g agregar: 6 Unidades
-Del producto Caramelos Mentos Fruit 29g agregar: 14 Unidades
-Del producto Caramelos Mentos Kiss Menta 35g agregar: 10 Unidades
-Del producto Caramelos Mentos Menta 29.4g agregar: 15 Unidades
-Del producto Caramelos Skittles Original 61g agregar: 12 Unidades
-Del producto Caramelos Skittles Sour 51g agregar: 20 Unidades
-Del producto Caramelos Tic Tac Menta 16g agregar: 6 Unidades
+Del producto Caramelos Full Limon 27g agregar: 6 Unidades
+Del producto Caramelos Halls Cereza Lyptus 25g agregar: 21 Unidades
+Del producto Caramelos Halls Extra Strong 24g agregar: 23 Unidades
+Del producto Caramelos Halls Limon Miel 25g agregar: 17 Unidades
+Del producto Caramelos Halls Liptus Menta 25g agregar: 10 Unidades
+Del producto Caramelos Halls Mora 25g agregar: 25 Unidades
+Del producto Caramelos Mentitas 25g agregar: 2 Unidades
+Del producto Caramelos Mentos Fruit 29g agregar: 15 Unidades
+Del producto Caramelos Mentos Kiss Fresa 35g agregar: 6 Unidades
+Del producto Caramelos Mentos Kiss Menta 35g agregar: 20 Unidades
+Del producto Caramelos Mentos Menta 29.4g agregar: 1 Unidades
+Del producto Caramelos Skittles Original 61g agregar: 24 Unidades
+Del producto Caramelos Skittles Sour 51g agregar: 21 Unidades
+Del producto Caramelos Starburst Original 58g agregar: 3 Unidades
+Del producto Caramelos Tic Tac Menta 16g agregar: 12 Unidades
 Del producto Caramelos Tic Tac Naranja 16g agregar: 12 Unidades
-Del producto Chicle Bigtime Aqua 11g agregar: 12 Unidades
-Del producto Chicle Bigtime Frutilla 11g agregar: 4 Unidades
-Del producto Chicle Bigtime Refrescante 11g agregar: 50 Unidades
-Del producto Chicle Bigtime Strong 11g agregar: 10 Unidades
-Del producto Chicle Bigtime Ultra Greenmint 24g agregar: 12 Unidades
+Del producto Chicle Bigtime Aqua 11g agregar: 34 Unidades
+Del producto Chicle Bigtime Frutilla 11g agregar: 21 Unidades
+Del producto Chicle Bigtime Refrescante 11g agregar: 33 Unidades
+Del producto Chicle Bigtime Sandia 11g agregar: 13 Unidades
+Del producto Chicle Bigtime Strong 11g agregar: 15 Unidades
+Del producto Chicle Bigtime Ultra Redberry 24g agregar: 4 Unidades
+Del producto Chicle Bigtime Ultra Strong 26g agregar: 3 Unidades
 Del producto Chicle Hubba Bubba Tape Original 56g agregar: 8 Unidades
 Del producto Chicle Mentos Bot Pure Berry 30g agregar: 4 Unidades
 Del producto Chicle Mentos Bot Pure Mint 30g agregar: 4 Unidades
-Del producto Chicle Mentos Botella Up2U60g agregar: 2 Unidades
+Del producto Chicle Mentos Bot Pure Spearmint 30g agregar: 8 Unidades
+Del producto Chicle Mentos Botella Up2U60g agregar: 4 Unidades
 Del producto Chicle Orbit Botella Bubblemint 64g agregar: 1 Unidades
-Del producto Chicle Orbit Botella Hierbabuena 64g agregar: 1 Unidades
+Del producto Chicle Orbit Botella Hierbabuena 64g agregar: 3 Unidades
 Del producto Chicle Orbit Botella Menta 64g agregar: 3 Unidades
 Del producto Chicle Orbit Botella White 64g agregar: 3 Unidades
-Del producto Chicle Orbit Bubblemint 14g agregar: 18 Unidades
-Del producto Chicle Orbit Eucalipto SA 14g agregar: 22 Unidades
-Del producto Chicle Orbit Spearmint SA 14g agregar: 30 Unidades
-Del producto Chicle Orbit White Menta Suave14g agregar: 19 Unidades
+Del producto Chicle Orbit Eucalipto SA 14g agregar: 30 Unidades
+Del producto Chicle Orbit Menta SA 14g agregar: 15 Unidades
+Del producto Chicle Orbit Spearmint SA 14g agregar: 25 Unidades
 Del producto Chicle Trident Bot Menta 45g agregar: 4 Unidades
 Del producto Chicle Trident Botella Fresa 45g agregar: 4 Unidades
-Del producto Chicle Trident Infiniti Spearmint 26g agregar: 1 Unidades
+Del producto Chicle Trident Botella Yerbabuena 45g agregar: 4 Unidades
+Del producto Chicle Trident Infiniti Spearmint 26g agregar: 2 Unidades
 Del producto Choco Cracs 160gr Evercrisp agregar: 1 Unidades
-Del producto Chocolate Bon o Bon 30g agregar: 33 Unidades
-Del producto Chocolate Costa Rama 115g agregar: 2 Unidades
-Del producto Chocolate Kit Kat Blanco 41g agregar: 32 Unidades
-Del producto Chocolate Kit Kat Milk 41g agregar: 6 Unidades
+Del producto Chocolate Bon o Bon 30g agregar: 18 Unidades
+Del producto Chocolate Costa Rama 115g agregar: 12 Unidades
+Del producto Chocolate Ferrero Rocher T-3 37g agregar: 4 Unidades
 Del producto Chocolate M&M Minis Tubo 30g agregar: 6 Unidades
-Del producto Chocolate M&M Peanut 49g agregar: 2 Unidades
-Del producto Chocolate M&M Plain 48g agregar: 7 Unidades
-Del producto Chocolate Milka 45g agregar: 7 Unidades
-Del producto Chocolate Milka Leche 55g agregar: 12 Unidades
-Del producto Chocolate Milky Way 48g agregar: 8 Unidades
-Del producto Chocolate Reeses 42g agregar: 21 Unidades
-Del producto Chocolate Reeses Nutrageous 47g agregar: 20 Unidades
-Del producto Chocolate Rocklets 150g agregar: 1 Unidades
+Del producto Chocolate M&M Peanut Butter 46g agregar: 2 Unidades
+Del producto Chocolate M&M Plain 48g agregar: 6 Unidades
+Del producto Chocolate Milka Leche 55g agregar: 1 Unidades
+Del producto Chocolate Milky Way 48g agregar: 1 Unidades
+Del producto Chocolate Reeses Nutrageous 47g agregar: 14 Unidades
+Del producto Chocolate Rocklets 150g agregar: 8 Unidades
 Del producto Chocolate Rocklets 35g agregar: 30 Unidades
-Del producto Chocolate Rocklets Mani 35g agregar: 9 Unidades
-Del producto Chocolate Rolls Blanco 140g agregar: 7 Unidades
+Del producto Chocolate Rocklets Mani 35g agregar: 26 Unidades
+Del producto Chocolate Rolls Blanco 140g agregar: 2 Unidades
 Del producto Chocolate Rolls Crispy 130g agregar: 7 Unidades
-Del producto Chocolate Sahne Nuss 30g agregar: 35 Unidades
-Del producto Chocolate Sahne Nuss 90g agregar: 13 Unidades
-Del producto Galletas Bañada Chokita 30g agregar: 4 Unidades
-Del producto Galletas Bañada Super 8 29g agregar: 11 Unidades
-Del producto Galletas Costa Manteq 140g agregar: 15 Unidades
-Del producto Galletas Frac Clasica 110g agregar: 18 Unidades
-Del producto Galletas Frac Vainilla 110g agregar: 6 Unidades
-Del producto Galletas Gretel 85g agregar: 13 Unidades
-Del producto Galletas Kuky 120g agregar: 30 Unidades
-Del producto Galletas Oreo 108g agregar: 8 Unidades
-Del producto Galletas Triton Chocolate 126g agregar: 24 Unidades
-Del producto Galletas Triton Vainilla 126g agregar: 24 Unidades
-Del producto Gomitas Ambrosito 25g agregar: 9 Unidades
-Del producto Gomitas Chupa Chups Xtrem 57g agregar: 23 Unidades
-Del producto Gomitas Loop 25g agregar: 2 Unidades
-Del producto Halls Extra Strong 27,5g agregar: 1 Unidades
-Del producto Halls Mentol 28g agregar: 28 Unidades
+Del producto Chocolate Rolls Crocante 150g agregar: 7 Unidades
+Del producto Chocolate Rolls Nuts 150g agregar: 1 Unidades
+Del producto Chocolate Sahne Nuss 250g agregar: 7 Unidades
+Del producto Chocolate Sahne Nuss 30g agregar: 17 Unidades
+Del producto Chocolate Sahne Nuss 90g agregar: 16 Unidades
+Del producto Chocolate Trencito 150g agregar: 16 Unidades
+Del producto Chocolate Trencito 24g agregar: 19 Unidades
+Del producto Chocolate Trencito 80g agregar: 15 Unidades
+Del producto Galleta Morocha Tremenda 80g agregar: 13 Unidades
+Del producto Galletas Bañada Chokita 30g agregar: 3 Unidades
+Del producto Galletas Bañada Golpe 27g agregar: 18 Unidades
+Del producto Galletas Bañada Kitkat Dark 41g agregar: 20 Unidades
+Del producto Galletas Bañada Twix 50g agregar: 7 Unidades
+Del producto Galletas Bon o Bon 95g agregar: 5 Unidades
+Del producto Galletas Costa Manteq 140g agregar: 7 Unidades
+Del producto Galletas Donuts 100g agregar: 7 Unidades
+Del producto Galletas Gretel 85g agregar: 19 Unidades
+Del producto Galletas Kuky 120g agregar: 16 Unidades
+Del producto Galletas Oreo 108g agregar: 7 Unidades
+Del producto Galletas Toddy 142g agregar: 4 Unidades
+Del producto Galletas Triton Chocolate 126g agregar: 17 Unidades
+Del producto Galletas Triton Vainilla 126g agregar: 21 Unidades
+Del producto Galletas Tuareg 120g agregar: 16 Unidades
+Del producto Gomitas Amberries 25g agregar: 3 Unidades
+Del producto Gomitas Ambrosito 25g agregar: 20 Unidades
+Del producto Gomitas Chupa Chups Xtrem 57g agregar: 20 Unidades
+Del producto Gomitas Flipy 25g agregar: 20 Unidades
+Del producto Gomitas Loop 25g agregar: 11 Unidades
+Del producto Halls Mentol 28g agregar: 36 Unidades
+Del producto Lays Corte Americano 100g agregar: 2 Unidades
+Del producto Mani Salado Evercrisp 140g agregar: 9 Unidades
+Del producto Mantecol 41g agregar: 22 Unidades
 Del producto Morocha Balls 105g agregar: 2 Unidades
 Del producto Papas Crema Ciboulette Marco Polo 180g agregar: 4 Unidades
-Del producto Papas Lays Artesanas Merken 150g agregar: 5 Unidades
+Del producto Papas Lays Artesanas Merken 150g agregar: 1 Unidades
 Del producto Papas Lays Artesanas Sal 150g agregar: 5 Unidades
-Del producto Papas Lays Stax Cebolla 134g agregar: 4 Unidades
+Del producto Papas Lays Stax Cebolla 134g agregar: 1 Unidades
+Del producto Papas Lays Stax Cheddar 134g agregar: 1 Unidades
+Del producto Papas Lays Stax Original 134g agregar: 1 Unidades
 Del producto Papas Marco Polo Jamon Serrano 180g agregar: 4 Unidades
 Del producto Papas Marco Polo Rustic Queso Oreg 185g agregar: 5 Unidades
 Del producto Papas Marco Polo Rustic Sal Him Pim 185g agregar: 5 Unidades
 Del producto Papas MP Corte Americano 230g agregar: 5 Unidades
+Del producto Papas MP Rusticas Merken 185g agregar: 5 Unidades
 Del producto Papas MP Rusticas Sal 185g agregar: 5 Unidades
-Del producto Papas Pringles Cebolla 109g agregar: 3 Unidades
-Del producto Papas Pringles Original 104g agregar: 2 Unidades
-Del producto Rocklets Mani 30g agregar: 25 Unidades
+Del producto Papas Pringles Cebolla 109g agregar: 2 Unidades
+Del producto Rocklets Chocolate 30g agregar: 17 Unidades
+Del producto Rocklets Mani 30g agregar: 17 Unidades
+Del producto Skittles Wild Berry 61.5 g agregar: 13 Unidades
+Del producto Snack Doritos 100g agregar: 6 Unidades
+Del producto Snack Doritos 285g agregar: 2 Unidades
 Del producto Snack Doritos Aji Limon 100g agregar: 4 Unidades
-Del producto Snack Nutella B Ready 22g agregar: 21 Unidades
-Del producto Snack Ramitas Original 230g agregar: 1 Unidades
-Del producto Snack Ramitas Queso 230g agregar: 2 Unidades
-Del producto Snack Twistos Queso 100g agregar: 2 Unidades
-Del producto Tic Tac 100 Menta 49 g agregar: 2 Unidades
-Del producto Turron de Mani 40g agregar: 11 Unidades
+Del producto Snack Nutella B Ready 22g agregar: 23 Unidades
+Del producto Snack Ramitas Queso 110g agregar: 7 Unidades
+Del producto Snack Twistos Jamon 100g agregar: 4 Unidades
+Del producto Stick Snack In La Preferida 18g agregar: 4 Unidades
+Del producto Tic Tac 100 Menta 49 g agregar: 12 Unidades
+Del producto Turron de Mani 40g agregar: 13 Unidades
+Del producto Wild Protein Pro Cookies And Cream 60g agregar: 1 Unidades
